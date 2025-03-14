@@ -1,6 +1,6 @@
 # CLIER
 
-This repository contains code and test data for the article **"Protocol for interpretable and context-specific single-cell informed deconvolution of bulk RNA-seq data"** [(Malpetti, Mangili et al., 2025, STAR Protocols)](https://www.sciencedirect.com/science/article/pii/S2666166725000760?via%3Dihub).
+This repository contains code and test data for the article [**"Protocol for interpretable and context-specific single-cell informed deconvolution of bulk RNA-seq data,"**](https://www.sciencedirect.com/science/article/pii/S2666166725000760?via%3Dihub) published in STAR Protocols (Malpetti, Mangili et al., 2025).
 
 ## Detailed Description of Files
 
