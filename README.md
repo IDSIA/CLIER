@@ -10,7 +10,7 @@ This repository contains code and test data for the article [**"Protocol for int
 - **align_fastq.sh**: Automates the process of downloading FASTQ files and aligning paired-end RNA-Seq data using the STAR aligner.
 
 ### Data
-- **kidney_atlas_matrix.rds**: Contains the single-cell signatures atlas built in ["A transfer learning framework to elucidate the clinical relevance of altered proximal tubule cell states in kidney disease,"](https://www.sciencedirect.com/science/article/pii/S2589004224004929) published in iScience (Legouis, Rinaldi, Malpetti et al., 2024).
+- **kidney_atlas_matrix.rds**: Contains the single-cell signatures atlas built in [**"A transfer learning framework to elucidate the clinical relevance of altered proximal tubule cell states in kidney disease,"**](https://www.sciencedirect.com/science/article/pii/S2589004224004929) published in iScience (Legouis, Rinaldi, Malpetti et al., 2024).
 - **kidney_atlas_info.xlsx**: Contains descriptions of the signatures included in the single-cell signatures atlas built in the above study.
 - **DKD_tpm.rds**: Contains a processed version (TPM) of the dataset GSE142025, also used in the above study.
 - **DKD_clin.rds**: Contains clinical information (fibrosis) regarding the dataset GSE142025.
